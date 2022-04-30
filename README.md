@@ -4,7 +4,7 @@
 
 
 
-下載本書代碼（本書GitHub地址）：[https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book) （建議把代碼下載下來之後，安裝好Anaconda 3.6，在目錄文件夾中用Jupyter notebook打開）
+下載本書代碼（本書GitHub地址）：[https://github.com/abo2319/python_for_data_analysis_2nd_chinese_version](https://github.com/abo2319/python_for_data_analysis_2nd_chinese_version) （建議把代碼下載下來之後，安裝好Anaconda 3.6，在目錄文件夾中用Jupyter notebook打開）
 
 本書是2017年10月20號正式出版的，和第1版的不同之處有：
 
